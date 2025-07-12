@@ -76,6 +76,11 @@ Go to: [http://localhost:8080](http://localhost:8080)
 ## 🖼️ Demo Video Link
 https://drive.google.com/file/d/1d-7lxU2OSCAJeiXYAXhe2KQ7JIjM08hF/view?usp=sharing
 
+## 🖼️Screenshot 
+![Employee Directory UI](public/desktop1.png)
+![Employee Directory UI](public/desktop2.png)
+![Employee Directory UI](public/mobile1.png)
+![Employee Directory UI](public/mobile2.png)
 
 ## 💭 Challenges Faced
 ### 🧩 Understanding Freemarker —
